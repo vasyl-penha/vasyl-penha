@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vasyl-penha
+- 👋 Hi, I’m Vasyl Penha
 - 👀 I’m interested in JavaScript React projects
 - 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on React projects and startups
